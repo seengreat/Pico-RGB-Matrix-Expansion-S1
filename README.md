@@ -60,7 +60,7 @@ Thonny download link: https://thonny.org<br>
 <br>
 3.Right-click on DS1302.py under the Pico RGB Matrix Expansion S1 directory and open it with Thonny. Click on Tools -> Options. In the interpreter field, select MicroPython (Raspberry Pi Pico), and set the port (COMx: the port number may vary on different computers). Click OK to confirm.<br>
 ①Select "MicroPython (Raspberry Pi Pico)".<br>
-②Set the corresponding port here, and click OK to confirm.<br>
+②Set the corresponding port, and click OK to confirm.<br>
 <br>
 4.Open the View -> Files window, and upload the Lib library files to the Raspberry Pi Pico.<br>
 ①Press Ctrl and select all .py files inside the Pico RGB Matrix Expansion S1 folder.<br>
